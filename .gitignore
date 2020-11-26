@@ -1,2 +1,7 @@
 **/__pycache__/
-/config/config.ini
+**/config/
+*.sublime-project
+*.sublime-workspace
+*.log
+.idea
+.DS_Store
